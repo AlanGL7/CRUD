@@ -19,7 +19,7 @@ imgBorrar.src = "img/basura.png";
 //document.body.appendChild(img);
 
 const imgEditar = document.createElement("imgEditar");
-imgEditar.src = '/Users/alanestevez/Desktop/TallerProgAvanzada/CRUD Bootstrap/img/editar.png';
+imgEditar.src = 'img/editar.png';
 //document.body.appendChild(img);
 
 
